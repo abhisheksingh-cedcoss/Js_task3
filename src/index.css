@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_content{
+padding-top: 10%;
+padding-left: 40%;
+
+}
+
+label{
+    padding-right: 5%;
+    padding-top: 20px;
+    
+    display: inline-block;
+}
+
+input{
+    display: inline-block;
+    /* margin :1em 5em 1em 2em; */
+    padding: 8px 16px;
+    margin-left: 20px;
+
+}
+
+button{
+    display: block;
+  text-align: center;
+  font-size: large;
+  padding: 8px 16px;
+
+
+
+}
+
+
+.agel{
+    margin-left: 11px;
+}
+
+
+
+
+
+
+
+
+
+.second_content{
+    padding-top: 5%;
+    text-align: left;
+}
+
+
+button{
+
+    padding: 8px 16px;
+}
